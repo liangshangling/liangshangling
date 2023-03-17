@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @liangshangling
-- 👀 I’m interested in 网络传输
+- 👀 I’m interested in VR
 - 🌱 I’m currently learning 基础编程
-- 💞️ I’m looking to collaborate on 半年后基础已经打牢
-- 📫 How to reach me QQ：2014460682
+- 💞️ I’m  依旧是个小趴菜
+- 📫 How to reach me QQ：2014460682@qq.com
 
 <!---
 liangshangling/liangshangling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
